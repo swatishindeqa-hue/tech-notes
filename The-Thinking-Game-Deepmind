@@ -1,0 +1,37 @@
+
+```md
+# The Thinking Game (DeepMind / AGI documentary)
+
+- **Title:** The Thinking Game (Full documentary | Tribeca official selection)
+- **Why it matters:** A rare “inside the lab” view of how a top AI research org works day-to-day—what breakthroughs look like, what failure looks like, and how long the grind is.
+
+## Context / Problem
+A lot of AI content is either hype (“AGI tomorrow”) or purely technical. This film tries to bridge that gap: what it actually takes (people, process, compute, iteration, uncertainty) to push toward AGI and deliver real-world science wins like AlphaFold.
+
+## Approach / What the video covers
+- Follows Demis Hassabis and the DeepMind team over ~5 years, showing research culture, ambition, and decision-making.
+- Uses **games as training grounds** (reinforcement learning): early work includes learning Atari-style games end-to-end and demonstrating generalization across multiple games.
+- Moves from “games as benchmarks” to **science as impact**, especially **AlphaFold** solving a decades-old protein-structure challenge (and why that matters for biology/medicine).
+- Touches on AI ethics/safety concerns and the tension between moving fast vs. being careful when stakes are irreversible.
+- Frames the story as a “race + research journey” rather than a single invention moment.
+
+## Your timestamp (t=472s / ~7:52)
+The film is in the “mission + foundations” phase: clarifying DeepMind’s goal of **AGI**, early mission-driven culture, and why structured environments like games are useful for learning agents.
+
+## Commands/Code
+None (documentary format).
+
+## Gotchas / Pitfalls (watch it critically)
+- It’s very engaging, but it’s also close to the org it documents—so you may feel a “corporate lens” at times, and broader societal critiques aren’t the main focus.
+- Don’t treat it as an AI textbook—use it as a **research process + culture** case study.
+
+## Key Takeaways (practical)
+- Breakthroughs come from **iteration + validation + resilience**, not one-shot genius.
+- “Games → science” is a pattern: use constrained problems to build capability, then apply to open-ended real-world challenges.
+- For a QA/engineering mindset: the lab’s workflow mirrors strong engineering practices—tight feedback loops, constant measurement, and careful claims.
+
+## References
+- YouTube: https://www.youtube.com/watch?v=d95J8yzvjbQ&t=472s
+
+- **Tags:** #ai #deepmind #agi #alphafold #reinforcement-learning #documentary #research-culture  
+- **Last Updated:** 2025-12-30
