@@ -1,0 +1,19 @@
+
+## How I add / update notes
+1. Create a new note under `notes/<topic>/`.
+2. Add an entry to `INDEX.md`.
+3. Keep notes consistent using the template below.
+
+## Note template
+```md
+# Title
+
+- **Why it matters:**
+- **Context / Problem:**
+- **Approach / Steps:**
+- **Commands/Code:**
+- **Gotchas / Pitfalls:**
+- **Checklist / Verification:**
+- **References:**
+- **Tags:**
+- **Last Updated:** YYYY-MM-DD
